@@ -1,4 +1,4 @@
-# Charte graphique AOCDTF/CNAM <img src="fichiers_github/logo_cnam.png" align="right" height="45"/> <img src="fichiers_github/logo_compagnons.png" align="right" height="45"/>
+# Charte graphique AOCDTF/CNAM <img src="fichiers_github/logo_cnam.png" align="right" width="120"/> <img src="fichiers_github/logo_compagnons.png" align="right" height="45"/>
 
 Clean LaTeX template for AOCDTF's educational content intended to highly qualified craftsmen, in association with CNAM
 
