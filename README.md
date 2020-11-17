@@ -89,7 +89,7 @@ Rédiger les équations pour les exemples, détails de calcul, dans l'environnem
 
 9. Ne pas oublier de référencer les sources à l'aide de la bibliographie que l'on alimente au fur et à mesure de la rédaction et d'inclure des liens de références internes à l'aide des labels.
 
-10. Vérifier dans package "AOCDTF.sty" toutes les macros qui ont pu y être ajoutées (bien souvent précédées d'une instruction type `\newcommand{nouvelleinstruction}{cequecette instructionexecute}`.
+10. Vérifier dans le package "AOCDTF-cnam.sty" toutes les macros qui ont pu y être ajoutées (bien souvent précédées d'une instruction type `\newcommand{nouvelleinstruction}{cequecette instructionexecute}`.
 
 11. Une fois la rédaction de la sous-programmation effectuée, l'appeler dans sa programmation maitre en suivant bien les consignes en début de programmation avec le `\package{comment}` qui permet de mettre en commentaire toute la portion de code se situant dans cet environnement et l'instruction `%` qui aura le même effet sur une ligne.
 
